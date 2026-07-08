@@ -81,17 +81,5 @@ streamlit run app.py
 - Internet connection for real-time data
 - Modern web browser
 
-## 🤝 Support and Contribution
-
-Feel free to contribute to this project by:
-- Reporting issues
-- Suggesting new features
-- Submitting pull requests
-- 
-## 👨‍💻 Author
-
-- [nagesh111-ai](https://github.com/nagesh111-ai)
-
----
 
 Made with ❤️ for the farming community
